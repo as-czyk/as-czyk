@@ -38,4 +38,4 @@ M.Sc. IT-Management · B.A. Digital Media
 Wenn du KI-Agenten in deinem Unternehmen einsetzen willst oder technisch über Agentensysteme austauschen möchtest:
 
 [![Termin buchen](https://img.shields.io/badge/15--Min--Call_buchen-000000?style=flat-square)](https://cal.com/aron-scheffczyk-fnudtw/15min)
-[![E-Mail](https://img.shields.io/badge/Mail-aron.scheffczyk@gmail.com-000000?style=flat-square&logo=gmail&logoColor=white)](mailto:aron.@agentenschmiede.com)
+[![E-Mail](https://img.shields.io/badge/Mail-aron@agentenschmiede.com-000000?style=flat-square&logo=gmail&logoColor=white)](mailto:aron.@agentenschmiede.com)
